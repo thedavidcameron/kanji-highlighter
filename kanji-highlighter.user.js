@@ -4,6 +4,7 @@
 // @description Based on the original Kanji Highlighter by looki, this will highlight all kanji using specific colours, depending on the user's knowledge level (currently optimized for WaniKani users).
 // @include     *
 // @exclude     http*://mail.google.com*
+// @exclude     http*://*reddit.com*
 // @exclude     http*://*.wanikani.com*
 // @version     2.0.0
 // @grant       GM_addStyle
